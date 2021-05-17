@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bilal Mohmand
-- 👀 I’m interested in coding 
 - 🌱 I’m currently learning Javascript ❤
 
 
